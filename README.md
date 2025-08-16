@@ -19,7 +19,7 @@ This project explores food price trends in Nigeria from 2002 to 2025 using data 
 ---
 
 ## Overview
-This interactive dashboard comprehensively analyses traffic collisions across New York City. It is designed to help stakeholders—such as city planners, transportation officials, safety advocates, and the general public—better understand collision patterns, identify high-risk areas, and support data-driven decisions to enhance road safety.
+This interactive dashboard comprehensively analyses traffic collisions across New York City. It is designed to help stakeholders—such as city planners, transportation officials, safety advocates, and the general public—better understand collision patterns, identify high-risk areas, and support data-driven decisions to enhance road safety. An addition  I would be editing.
 
 ---
 
@@ -59,7 +59,7 @@ The raw data for this dashboard includes a comprehensive dataset of the NYC Road
 - **Custom Groupings**: Vehicle types and contributing factors were grouped into meaningful categories (e.g., Passenger, Commercial, Unknown) to simplify interpretation.
 - **Time-Based Analysis**: Monthly and hourly trend graphs allow users to detect seasonal patterns and peak collision times.
 - **Highlight Cards (KPIs)**: Summary cards show total collisions, injuries, and fatalities, providing an instant snapshot of the overall impact.
-- **User-Centric Design**: Custom color schemes, consistent font styles, and intuitive slicer layouts were applied to ensure clarity, readability, and visual appeal.
+- **User-Centric Design**: Custom colour schemes, consistent font styles, and intuitive slicer layouts were applied to ensure clarity, readability, and visual appeal.
 - **Responsive Insights**: All charts dynamically update based on selected filters, helping users draw targeted conclusions based on specific scenarios.
 
 ![NYC_ROAD_ACCIDENT_DASHBOARD]("")
@@ -145,7 +145,7 @@ Vehicle 1)? What about fatal accidents specifically?
 ---
 
 ## Conclusion
-This project successfully analyzed NYC traffic accident data to identify key patterns and risk factors. The insights gathered can help inform safety initiatives, improve traffic management, and reduce accident occurrences through data-driven decisions.
+This project successfully analysed NYC traffic accident data to identify key patterns and risk factors. The insights gathered can help inform safety initiatives, improve traffic management, and reduce accident occurrences through data-driven decisions.
 
 ---
 
